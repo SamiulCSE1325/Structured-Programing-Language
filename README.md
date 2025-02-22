@@ -1,1 +1,1 @@
-# Structured-Programing-Language
+Common problem solve using C Programming
